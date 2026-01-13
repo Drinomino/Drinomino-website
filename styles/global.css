@@ -92,3 +92,13 @@ body {
   
   overflow: scroll;
 }
+    .blog img{
+        width: 20%;
+    }
+
+.indexPup{
+    width: 75%;
+    position:fixed;
+    bottom:0px;
+    left: 12%;
+}
